@@ -14,7 +14,6 @@
 ---
 
 ### 🧩 Projects in Progress
-[![Learning Portfolio](https://img.shields.io/badge/Learning-Portfolio-9cf?style=for-the-badge)](https://github.com/username/learning-portfolio)  
 [![Data Cleaning](https://img.shields.io/badge/Data-Cleaning-green?style=for-the-badge)](https://github.com/username/data-cleaning)  
 
 ---
@@ -22,7 +21,7 @@
 ### 🌈 Visualization & Inspiration
 ![Animated Background](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk3bG5zbGZ5Njd3Z2VhZWg0dnduOGZ4d3cybWRsd2VjMjljN3pmMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)  
 ![Data Flow](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)  
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
 
 ---
 
