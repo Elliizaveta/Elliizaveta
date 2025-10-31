@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! 👋 I'm Elizaveta — Aspiring Data Analyst 📊
 
-<!--
-**Elliizaveta/Elliizaveta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently learning data analysis, statistics, and Python for real-world insights.  
+💡 Passionate about turning raw data into clear, meaningful stories.  
+🌱 Always exploring new tools and techniques to grow my analytical skills.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills & Learning
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Viz-orange?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Data-blue?style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/PowerBI-Visualization-F2C811?style=for-the-badge)
+
+---
+
+### 🧩 Projects in Progress
+[![Learning Portfolio](https://img.shields.io/badge/Learning-Portfolio-9cf?style=for-the-badge)](https://github.com/username/learning-portfolio)  
+[![Data Cleaning](https://img.shields.io/badge/Data-Cleaning-green?style=for-the-badge)](https://github.com/username/data-cleaning)  
+
+---
+
+### 🌈 Visualization & Inspiration
+![Animated Background](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk3bG5zbGZ5Njd3Z2VhZWg0dnduOGZ4d3cybWRsd2VjMjljN3pmMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)  
+![Data Flow](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)  
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/elizaveta)  
+- [Kaggle](https://www.kaggle.com/username)  
+- [GitHub](https://github.com/username)
+
